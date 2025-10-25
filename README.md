@@ -57,6 +57,11 @@ lib/
 
 ---
 
+## Screenshots
+<img src="./assets/home.png" width="300" alt="Ana Sayfa"/>
+<img src="./assets/add_transaction.png" width="300" alt="İşlem Ekleme"/>
+
+---
 ## ⚙️ Kurulum
 
 1️⃣ Depoyu klonla  
@@ -65,8 +70,3 @@ git clone https://github.com/kullanici_adi/mini_finance_app.git
 flutter pub get
 flutter packages pub run build_runner build
 flutter run
-
----
-
-<img src="./assets/home.png" width="300" alt="Ana Sayfa"/>
-<img src="./assets/add_transaction.png" width="300" alt="İşlem Ekleme"/>
